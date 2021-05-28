@@ -1,3 +1,5 @@
+ #coding=utf-8
+
 import os, sys
 from datetime import datetime
 from apscheduler.executors.pool import ThreadPoolExecutor
